@@ -1,1 +1,3 @@
 Ovo je neki novi tekst
+
+edit na ovoj datoteci
